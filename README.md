@@ -22,9 +22,23 @@
 ---
 
 ## What I learned today 💡
-### Title
-* 
+### CSS grid
+* setup grid in CSS [css tricks](https://css-tricks.com/snippets/css/complete-guide-grid/#grid-template-columnsgrid-template-rows)
+* `display: grid`
+* `grid-template-rows: 1fr 1fr;`
+* `grid-template-columns: 1fr 1fr;`
+![CSS grid Firefox screenshot](grid-css/assets/1.png)
 
+### Intro to JS
+* Data type : string, number, boolean, Array & Object
+* String = text
+* Number = integer, decimal, -1, 1, float
+* Boolean = true / false, 1, 0
+* Array & Object = to contain string, number, boolean
+Variables = const, let
+
+### DOM (document object model)
+* w3schools [here](https://www.w3schools.com/js/js_htmldom.asp)
 ---
 
 ## Problem encountered 🧐
@@ -37,7 +51,13 @@
 * Backed => API, data structure, table (mysql, nosql, graphql), networking, NGINX
 * Mobile => iOS, android, window (terminal, credit card)
 
+---
+
 * watch YouTube - other company data struture (how many intance, need load balancer)
+
+---
+
+* watch Morten Rand-Hendriksen: CSS grids [here](https://www.youtube.com/watch?v=txZq7Laz7_4&ab_channel=WordPress)
 
 
 
