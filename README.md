@@ -1,4 +1,4 @@
-## CODING BOOTCAMP - DAY 6
+## CODING BOOTCAMP - DAY 7
 [Click here to view the assessmet](#) | [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 ---
